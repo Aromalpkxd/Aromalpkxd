@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aromal PKXD</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Aromal PKXD's World</h1>
+        <section>
+            <h2>About Me</h2>
+            <p>Hello! I’m Aromal PKXD, and I’m thrilled to have you here. Whether you’re an old friend or a new visitor, I hope you find something interesting on this page.</p>
+        </section>
+        <section>
+            <h2>Hobbies and Interests</h2>
+            <p>Tech Enthusiast: Always on the lookout for the latest in gadgets and technology.</p>
+            <p>Adventure Seeker: Love exploring new places and trying out thrilling activities.</p>
+            <p>Pet Lover: Proud owner of a charming (dog/cat/other pet)!</p>
+        </section>
+        <section>
+            <h2>Contact Me</h2>
+            <p class="contact">Feel free to reach out via email at <a href="mailto:your-email@example.com">your-email@example.com</a> or connect with me on social media (insert links here).</p>
+        </section>
+        <section>
+            <h2>Gallery</h2>
+            <p>Here, I’ll share some of my favorite moments captured in photos. Stay tuned for updates!</p>
+        </section>
+    </div>
+</body>
+</html>
